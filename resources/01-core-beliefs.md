@@ -1,78 +1,131 @@
-# Core Beliefs of Islam (Arkan al-Iman)
+# Core Beliefs: The Six Articles of Faith (Arkan al-Iman)
 
-The Islamic creed consists of six articles of faith, known as **Arkan al-Iman** (Pillars of Faith). These are derived from the Hadith of Jibril:
+> "Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah, the Last Day, the angels, the Book, and the prophets..." -- Quran 2:177
 
-> "It is to believe in Allah, His angels, His books, His messengers, the Last Day, and to believe in divine decree (al-qadar), both its good and its evil."
-> -- Sahih Muslim 8a
+The Six Articles of Faith (Arkan al-Iman) form the foundation of Islamic belief and are affirmed by all Muslim communities.
 
-## 1. Tawhid -- Belief in the Oneness of God (Allah)
+## 1. Belief in Allah (Tawhid)
 
-**Tawhid** is the central and most fundamental concept in Islam: the absolute oneness and uniqueness of God.
+**Definition**: Tawhid is the oneness and uniqueness of Allah, and His absolute transcendence and incomparability to creation.
 
-### Categories of Tawhid
+### Core Principles
 
-- **Tawhid ar-Rububiyyah** (Oneness of Lordship): Allah alone is Creator, Sustainer, and Master
-- **Tawhid al-Uluhiyyah** (Oneness of Worship): Allah alone deserves worship
-- **Tawhid al-Asma wa al-Sifat** (Oneness of Names and Attributes): Allah's names and attributes are unique
+- **Oneness (Al-Wahidiyyah)**: There is only one God worthy of worship
+- **Uniqueness (At-Tafreed)**: No partners with Allah in lordship, names, attributes, or worship
+- **Transcendence (At-Tanzih)**: Allah is above and beyond all creation, lacking human characteristics
+- **Divine Attributes (Asma wa-Sifat)**: Allah possesses perfect attributes like Knowledge, Power, Mercy, Justice
 
-### The 99 Names of Allah (Al-Asma al-Husna)
+### The Greatest Sin: Shirk
 
-Include Ar-Rahman (Most Gracious), Ar-Rahim (Most Merciful), Al-Malik (Sovereign), Al-Quddus (Most Holy), As-Salam (Source of Peace), Al-Aziz (Almighty), Al-Khaliq (Creator), Al-Alim (All-Knowing), Al-Hayy (Ever-Living), Al-Qayyum (Self-Sustaining).
+Associating partners with Allah in worship is the unforgivable sin (Quran 4:48):
+- **Shirk al-Akbar** (major): worshipping others alongside Allah
+- **Shirk al-Asghar** (minor): showing off (riya'), seeking human praise
 
-### Shirk (Associating Partners with Allah)
+## 2. Belief in the Angels (Mala'ikah)
 
-The gravest sin in Islam (4:48). Includes major shirk (directing worship to other than Allah), minor shirk (actions leading toward it), and hidden shirk (ostentation).
+Angels are created beings of light and energy, without free will, obedient to Allah. Key angels include:
 
-## 2. Belief in Angels (Al-Mala'ika)
+- **Jibreel (Gabriel)**: The messenger angel, brought revelations to prophets
+- **Mikail (Michael)**: Sustains creation with food and nourishment
+- **Israfil**: Will blow the Trumpet on the Day of Judgment
+- **Malik**: Custodian of Hellfire
+- **Guardian Angels (Kiraman Katibin)**: Record our deeds, two assigned to each person
 
-Angels are created from light, obey Allah perfectly, and do not possess free will to disobey.
+### Functions
+- Glorifying Allah continuously
+- Recording human actions
+- Intercession on behalf of believers
+- Assisting prophets in their missions
+- Punishing the disbelievers on Judgment Day
 
-Key angels: **Jibril** (revelation), **Mikail** (provisions), **Israfil** (the Trumpet), **Malak al-Mawt** (death), **Munkar and Nakir** (grave questioning), **Kiraman Katibin** (recording deeds), **Malik** (guardian of Hellfire), **Ridwan** (guardian of Paradise).
+## 3. Belief in the Books (Kutub)
 
-## 3. Belief in the Divine Books (Al-Kutub)
+Allah revealed scriptures to various prophets:
 
-Muslims believe in the Scrolls of Abraham (Suhuf Ibrahim), the Torah (Tawrat) given to Moses, the Psalms (Zabur) given to David, the Gospel (Injil) given to Jesus, and the Quran given to Muhammad as the final, preserved revelation.
+- **The Torah (Tawrah)**: Given to Moses, contains the Law
+- **The Psalms (Zabur)**: Given to David, songs of praise
+- **The Gospel (Injil)**: Given to Jesus, containing teachings of mercy
+- **The Quran**: Given to Muhammad, preserved until the Day of Judgment
 
-Previous scriptures are believed to have been altered over time (Tahrif). The Quran serves as the final criterion confirming what remains true.
+**Status of Previous Books**: Muslims believe the Quran is the final, complete, and uncorrupted revelation. Previous scriptures have been altered or lost over time; Muslims respect their original content and the prophets who received them.
 
-## 4. Belief in the Prophets and Messengers
+## 4. Belief in the Prophets and Messengers (Rusul wa-Anbiya)
 
-The Quran names 25 prophets including Adam, Nuh (Noah), Ibrahim (Abraham), Musa (Moses), Isa (Jesus), and Muhammad. A **Nabi** (prophet) receives revelation; a **Rasul** (messenger) brings a new law. Muhammad is the **Khatam an-Nabiyyin** (Seal of the Prophets) -- the last prophet (33:40).
+Muslims believe in all prophets sent by Allah. Key distinctions:
 
-## 5. Belief in the Day of Judgment (Yawm al-Qiyamah)
+- **Prophets (Anbiya)**: Receive revelations but don't bring new laws
+- **Messengers (Rusul)**: Bring new revelations and establish new religious laws
 
-### Signs of the Hour
+### The Five Greatest Messengers (Ulul-Azm)
 
-**Minor signs** include: loss of knowledge, prevalence of intoxicants, barefoot shepherds competing in tall buildings, widespread tribulations.
+1. **Noah (Nuh)**: Preached for 950 years; the great-great-grandfather of mankind
+2. **Abraham (Ibrahim)**: The "Friend of Allah," father of prophets; built the Ka'bah
+3. **Moses (Musa)**: Received the Torah; led Israelites from Egypt
+4. **Jesus (Isa)**: The Messiah, performed miracles, born of a virgin; will return before the Day of Judgment
+5. **Muhammad**: The Seal of the Prophets; the final and most perfect messenger
 
-**Major signs** include: the Dajjal (False Messiah), the descent of Isa (Jesus), Ya'juj and Ma'juj (Gog and Magog), the rising of the sun from the West, the Beast, a great fire.
+### Other Important Prophets
 
-### The Reckoning
+- Adam, Hud, Salih, Lot, Shuayb, Jonah, Zachariah, John (Yahya), David, Solomon, Job, and others
 
-The Trumpet blown by Israfil, resurrection of all humans, the Record of Deeds (right hand for righteous, left for wicked), the Scale (al-Mizan), intercession (ash-Shafa'ah), the Bridge (as-Sirat) over Hellfire.
+**Belief in all prophets is obligatory**; denying even one is disbelief. Muslims affirm their truthfulness and honor their missions.
 
-### Paradise (al-Jannah)
+## 5. Belief in the Last Day (Yawm al-Akhirah)
 
-Multiple levels with al-Firdaws as highest. Rivers of water, milk, wine, and honey. The greatest reward: seeing the Face of Allah.
+The Day of Judgment and the Hereafter are fundamental Islamic concepts.
 
-### Hellfire (Jahannam)
+### Timeline of the Last Day
 
-Multiple levels of severity. Fueled by humans and stones. Names include Jahannam, an-Nar, al-Hutamah, Laza, Saqar. Sinful believers may eventually be removed through intercession.
+**Signs of the Hour (Alam as-Sa'ah)**:
+- Minor signs: moral decay, ignorance, family ruptures, wealth increases, women outnumber men
+- Major signs: emergence of the Mahdi, return of Jesus, appearance of Dajjal (false messiah), collapse of mountains, sunrise from the west
+
+**The Day of Judgment (Yawm al-Deen)**:
+1. **The Trumpet Blast**: Israfil blows the trumpet; all creation dies
+2. **The Second Blast**: All souls are resurrected for judgment
+3. **The Gathering**: All humanity assembled in one place for eternity
+4. **The Questioning**: Each soul interrogated about their deeds
+5. **The Weighing**: Deeds weighed on scales; a single good deed can tip the balance
+
+### The Hereafter
+
+- **Al-Jannah (Paradise)**: Multiple levels for the righteous; no suffering, eternal bliss, reunion with loved ones
+- **Al-Nar (Hellfire)**: Multiple levels of punishment; temporary for believing sinners, eternal for disbelievers
+- **Al-A'raf**: A barrier between Paradise and Hellfire for those of equal good and bad deeds
 
 ## 6. Belief in Divine Decree (Al-Qadar)
 
-Everything occurs by Allah's will and knowledge. Four aspects:
+Allah has knowledge of all things past, present, and future. Four levels of divine decree:
 
-1. **Al-Ilm** (Divine Knowledge): Allah knows all things past, present, and future
-2. **Al-Kitabah** (The Writing): everything recorded in al-Lawh al-Mahfuz (Preserved Tablet)
-3. **Al-Mashee'ah** (Divine Will): nothing occurs except by Allah's will
-4. **Al-Khalq** (Creation): Allah is the Creator of all things including human actions
+1. **Knowledge ('Ilm)**: Allah knew everything before creation
+2. **Writing (Kitab)**: Allah recorded all destinies
+3. **Will (Mashiyyah)**: Nothing occurs except by Allah's will
+4. **Creation (Khalq)**: Allah created all things and actions
 
-Islam takes a middle position: humans have genuine choice (ikhtiyar) and moral responsibility, while their actions occur within Allah's overarching will. The **Ash'ari** and **Maturidi** schools hold that Allah creates human actions while humans "acquire" (kasb) them through their will.
+### Free Will vs. Predestination
 
-## Key References
+Islamic theology balances:
+- **Divine omniscience and sovereignty**: Allah's absolute knowledge and control
+- **Human responsibility**: Humans freely choose their actions and bear consequences
+- **Divine justice**: Punishment is just because humans act by choice
 
-- Hadith of Jibril: Sahih Muslim 8a
-- Kitab at-Tawhid by Muhammad ibn Abd al-Wahhab
-- Al-Aqidah al-Tahawiyyah by Imam al-Tahawi
-- Sharh al-Aqidah al-Wasitiyyah by Ibn Taymiyyah
+"No soul bears a burden other than that which it carries" (Quran 17:15)
+
+## The Pillars of Iman (Belief)
+
+These six articles are inseparable and equally important. A Muslim cannot cherry-pick beliefs; all six must be affirmed sincerely in the heart, professed with the tongue, and acted upon through deeds.
+
+### Strengthening Belief
+
+- **Reflection (Tafakkur)**: Contemplating the signs of Allah in creation
+- **Seeking knowledge**: Learning Islamic sciences deepens understanding
+- **Good deeds**: Actions reinforce faith
+- **Supplication (Du'a)**: Asking Allah to strengthen one's conviction
+- **Community**: Surrounding oneself with believers strengthens conviction
+
+## Related Concepts
+
+- **Iman**: Belief in the heart and affirmation with the tongue
+- **Islam**: Submission to Allah (outward actions)
+- **Ihsan**: Worshipping Allah as if you see Him; perfection of faith
+- **Riddah**: Apostasy; leaving Islam after full belief is considered the gravest sin
